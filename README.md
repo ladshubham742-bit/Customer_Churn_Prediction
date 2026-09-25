@@ -400,16 +400,19 @@ Deploying the model as an API
 
 Adding automated model monitoring
 
-👨‍💻 Author
-
-Shubham Lad
-
-Artificial Intelligence & Data Science Student
 
 Skills Demonstrated
 
 Python · Machine Learning · Data Analysis · EDA · Pandas · Scikit-learn · Data Visualization
 
-⭐ If You Find This Project Useful
+👨‍💻 Author
+Shubham Lad
 
-Feel free to star ⭐ the repository and use the project as a reference for learning customer churn prediction and machine learning classification.
+🔗 GitHub
+https://github.com/ladshubham742-bit/Shubham-Lad.
+
+🔗 LinkedIn
+www.linkedin.com/in/shubham-lad-314a66319.
+
+⭐ If You Find This Project Useful
+If you find this project helpful, consider giving the repository a ⭐ on GitHub!
